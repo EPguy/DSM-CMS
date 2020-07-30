@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DSM-CMS/static/css/main.896511eb.chunk.css",
-    "main.js": "/DSM-CMS/static/js/main.2e3d1df8.chunk.js",
-    "main.js.map": "/DSM-CMS/static/js/main.2e3d1df8.chunk.js.map",
+    "main.js": "/DSM-CMS/static/js/main.76b56f8d.chunk.js",
+    "main.js.map": "/DSM-CMS/static/js/main.76b56f8d.chunk.js.map",
     "runtime-main.js": "/DSM-CMS/static/js/runtime-main.3dddea0d.js",
     "runtime-main.js.map": "/DSM-CMS/static/js/runtime-main.3dddea0d.js.map",
     "static/js/2.14d5955c.chunk.js": "/DSM-CMS/static/js/2.14d5955c.chunk.js",
     "static/js/2.14d5955c.chunk.js.map": "/DSM-CMS/static/js/2.14d5955c.chunk.js.map",
     "index.html": "/DSM-CMS/index.html",
-    "precache-manifest.191750d10c90404c93e5ce3049aaacce.js": "/DSM-CMS/precache-manifest.191750d10c90404c93e5ce3049aaacce.js",
+    "precache-manifest.54717ff1ff0d0b3ec50c1409df40d79e.js": "/DSM-CMS/precache-manifest.54717ff1ff0d0b3ec50c1409df40d79e.js",
     "service-worker.js": "/DSM-CMS/service-worker.js",
     "static/css/main.896511eb.chunk.css.map": "/DSM-CMS/static/css/main.896511eb.chunk.css.map",
     "static/js/2.14d5955c.chunk.js.LICENSE.txt": "/DSM-CMS/static/js/2.14d5955c.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3dddea0d.js",
     "static/js/2.14d5955c.chunk.js",
     "static/css/main.896511eb.chunk.css",
-    "static/js/main.2e3d1df8.chunk.js"
+    "static/js/main.76b56f8d.chunk.js"
   ]
 }
