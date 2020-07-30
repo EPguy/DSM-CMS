@@ -1,0 +1,11 @@
+#registBtn {
+    cursor: pointer;
+}
+#excelbutton {
+    text-align: center;
+    width: 121px;
+    height: 24px;
+    border: solid 1px #9f9d9d;
+    background-color: #bdb9b9;
+    color: black;
+}

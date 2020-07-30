@@ -1,0 +1,49 @@
+#userInfo {
+    width: 300px;
+}
+.login-wrapper {
+    margin-right: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.user-name {
+    width: 50px;
+}
+#headerHead {
+    display: flex;
+    justify-content: space-between;
+}
+.login-wrapper #registBtn {
+    cursor: pointer;
+    border: none;
+    background-color: tomato;
+}
+#clubList{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    float: left;
+    padding: 30px;
+    width: 200px;
+    height: 1000px;
+    background-color: #f0f0f0;
+}
+.club-logo {
+    display: inline-block;
+    width: 120px;
+    height: 120px;
+    background-color: white;
+    margin-bottom: 10px;
+}
+#noticebar ul {
+    margin: 0px;
+    width: 2300px;
+}
+.Marquee{
+    width: 100%;
+}
+.MarqueeContent li {
+    margin-left: 350px;
+}

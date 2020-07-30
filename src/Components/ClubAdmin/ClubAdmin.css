@@ -1,0 +1,124 @@
+#title{
+    text-align: center;
+}
+
+table, tr, td{
+    background-color: white;
+}
+
+table button{
+    border: 1px solid #AB24D2;
+    background-color: white;
+    color: #AB24D2;
+    border-radius: 3px;
+    width: 60px;
+    padding: 4px;
+    margin-right: 10px;
+}
+table button:hover{
+    cursor: pointer;
+    background-color: #AB24D2;
+    color: white;
+}
+
+.clubInfoLeft button{
+    margin-top: 20px;
+    border: 1px solid #AB24D2;
+    background-color: white;
+    color: #AB24D2;
+    border-radius: 3px;
+    width: 60px;
+    padding: 4px;
+    margin-right: 10px;
+}
+
+.clubInfoLeft button:hover{
+    cursor: pointer;
+    background-color: #AB24D2;
+    color: white;
+}
+
+p{
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.clubInfoLeft{
+    margin-top: 6px;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+.clubMemberWrapper{
+    width: 100%;
+    height: 150px;
+}
+.clubMemberLeft{
+    float: left;
+    width: 120px;
+    height: 150px;
+}
+
+#clubInfoRight input[type="text"]{
+    width: 500px;
+    height: 10px;
+}
+
+.clubMemberItem input[type="text"]{
+    padding: 0;
+    width: 200px;
+    height: 25px;
+    background-color: #ffffff;
+    border: 1px solid black;
+}
+
+.club-items input[type="text"]{
+    text-align: left;
+    padding: 10px;
+    width: 300px;
+    height: 40px;
+    background-color: #ffffff;
+    border: 1px solid black;
+}
+
+.clubItem{
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+.clubMemberItem{
+    height: 50px;
+}
+
+#editBtn{
+    margin-top: 20px;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    background-color: #AB24D2;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#editBtn:hover{
+    cursor: pointer;
+    border: 1px solid #AB24D2;
+    background-color: white;
+    color: #AB24D2;
+}
+
+.club-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.club-member {
+    margin-top: 200px;
+}
+
+.club-input {
+    margin-bottom: 20px;
+}

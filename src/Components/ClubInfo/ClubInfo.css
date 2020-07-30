@@ -1,0 +1,21 @@
+#clubNameWrapper {
+    margin-bottom: 120px;
+}
+#clubNameWrapper #registBtn {
+    cursor: pointer;
+    width: 100px;
+}
+#memberWrapper {
+    margin-bottom: 120px;
+}
+.post-list {
+    color:  black !important;
+    width: 100%;
+}
+.club-info-top {
+    display: flex;
+    justify-content: space-between;
+}
+.leader-img {
+    width: 50px;
+}

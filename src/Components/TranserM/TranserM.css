@@ -1,0 +1,14 @@
+#scoutButton {
+    color: white;
+    cursor: pointer;
+    padding: 2px;
+    width: 50px;
+    height: 24px;
+    border: solid 1px #9f9d9d;
+    background-color: #5066e4;
+    margin: 0;
+}
+.transer-td {
+    display: flex;
+    justify-content: center;
+}
