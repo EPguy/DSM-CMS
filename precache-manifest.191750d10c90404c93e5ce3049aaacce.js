@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d4b26141f8da4457fc593eac41f75bbe",
+    "revision": "959f4780a8a1e5c5539bbd5ad34148cd",
     "url": "/DSM-CMS/index.html"
   },
   {
-    "revision": "8b6e6cf6555c60474727",
-    "url": "/DSM-CMS/static/css/main.01fd11e2.chunk.css"
+    "revision": "02b537da6d7c599aca37",
+    "url": "/DSM-CMS/static/css/main.896511eb.chunk.css"
   },
   {
     "revision": "d4cecaef692fdf29f602",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DSM-CMS/static/js/2.14d5955c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b6e6cf6555c60474727",
-    "url": "/DSM-CMS/static/js/main.b4d4cb73.chunk.js"
+    "revision": "02b537da6d7c599aca37",
+    "url": "/DSM-CMS/static/js/main.2e3d1df8.chunk.js"
   },
   {
     "revision": "9f5b46b2c90bfbeb6a0b",

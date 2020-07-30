@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DSM-CMS/precache-manifest.628aaf0a4109f45d0d622881d309f740.js"
+  "/DSM-CMS/precache-manifest.191750d10c90404c93e5ce3049aaacce.js"
 );
 
 self.addEventListener('message', (event) => {

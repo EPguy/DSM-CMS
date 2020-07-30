@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/DSM-CMS/static/css/main.01fd11e2.chunk.css",
-    "main.js": "/DSM-CMS/static/js/main.b4d4cb73.chunk.js",
-    "main.js.map": "/DSM-CMS/static/js/main.b4d4cb73.chunk.js.map",
+    "main.css": "/DSM-CMS/static/css/main.896511eb.chunk.css",
+    "main.js": "/DSM-CMS/static/js/main.2e3d1df8.chunk.js",
+    "main.js.map": "/DSM-CMS/static/js/main.2e3d1df8.chunk.js.map",
     "runtime-main.js": "/DSM-CMS/static/js/runtime-main.3dddea0d.js",
     "runtime-main.js.map": "/DSM-CMS/static/js/runtime-main.3dddea0d.js.map",
     "static/js/2.14d5955c.chunk.js": "/DSM-CMS/static/js/2.14d5955c.chunk.js",
     "static/js/2.14d5955c.chunk.js.map": "/DSM-CMS/static/js/2.14d5955c.chunk.js.map",
     "index.html": "/DSM-CMS/index.html",
-    "precache-manifest.628aaf0a4109f45d0d622881d309f740.js": "/DSM-CMS/precache-manifest.628aaf0a4109f45d0d622881d309f740.js",
+    "precache-manifest.191750d10c90404c93e5ce3049aaacce.js": "/DSM-CMS/precache-manifest.191750d10c90404c93e5ce3049aaacce.js",
     "service-worker.js": "/DSM-CMS/service-worker.js",
-    "static/css/main.01fd11e2.chunk.css.map": "/DSM-CMS/static/css/main.01fd11e2.chunk.css.map",
+    "static/css/main.896511eb.chunk.css.map": "/DSM-CMS/static/css/main.896511eb.chunk.css.map",
     "static/js/2.14d5955c.chunk.js.LICENSE.txt": "/DSM-CMS/static/js/2.14d5955c.chunk.js.LICENSE.txt",
     "static/media/club1.png": "/DSM-CMS/static/media/club1.0a07e3ef.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3dddea0d.js",
     "static/js/2.14d5955c.chunk.js",
-    "static/css/main.01fd11e2.chunk.css",
-    "static/js/main.b4d4cb73.chunk.js"
+    "static/css/main.896511eb.chunk.css",
+    "static/js/main.2e3d1df8.chunk.js"
   ]
 }
